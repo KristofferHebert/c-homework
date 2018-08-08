@@ -1,0 +1,23 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "__functional_03": "cpp",
+        "functional": "cpp",
+        "__locale": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "iterator": "cpp",
+        "istream": "cpp",
+        "__split_buffer": "cpp",
+        "atomic": "cpp",
+        "ios": "cpp",
+        "system_error": "cpp",
+        "typeinfo": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "memory": "cpp",
+        "utility": "cpp"
+    }
+}
